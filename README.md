@@ -2,7 +2,7 @@
  We are a team within the Office of Nature Conservation, ACT Government, Australia.
 
 
- 🌱 **Our aim**
+ 🌱 **Our aim**<br />
 We support adaptive management programs across the ACT Government, partnering with stakeholders to improve environmental and conservation outcomes. Our work includes:
 
 - Assisting with experimental design and providing technical scientific support.
@@ -10,7 +10,7 @@ We support adaptive management programs across the ACT Government, partnering wi
 - Conducting Priority Management Evaluations tailored to meet the needs of identified stakeholders.
 
 
-🐸 **Meet the AMS Team**
+🐸 **Meet the AMS Team**<br />
 Our team consists of:
 - Luke O'Loughlin
 - Chris Malam 
